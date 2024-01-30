@@ -1,7 +1,7 @@
 """Python API Practice"""
 import requests
 
-API_KEY = '48b516a69e2838ae96634614d49c50b1'
+API_KEY = ''
 
 # Example: OpenWeatherMap API endpoint for current weather
 API_URL = 'http://api.openweathermap.org/data/2.5/weather'
